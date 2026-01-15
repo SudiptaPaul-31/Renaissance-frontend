@@ -22,11 +22,11 @@ The app will display:
 - A modal system for challenge details
 
 TECH SETUP:
-Create a full Expo React Native app using:
-- Expo SDK 51+
+Create a full  app using:
+- Nextjs 15
 - TypeScript
-- NativeWind (Tailwind for RN)
-- ShadCN UI for React Native (https://ui.shadcn.com/react-native)
+- Tailwind 
+- ShadCN UI  (https://ui.shadcn.com)
 - React Navigation (stack + tabs)
 - Lucide Icons for React Native
 - AsyncStorage for local persistence
