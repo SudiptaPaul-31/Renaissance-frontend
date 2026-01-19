@@ -1,4 +1,5 @@
 # ⚽ Renaissance — Frontend
+join us on telegram to build with us https://t.me/+7CVopkI8kO85MWY0
 
 Renaissance is a next-generation football engagement platform that blends live football data, premium player lifestyle content, and Web3-powered interactions into a seamless user experience. This repository contains the **frontend application**, built with **Next.js**, designed for speed, scalability, and a modern Web3 user experience.
 
@@ -42,3 +43,4 @@ Next.js Frontend
 REST / WebSocket APIs
  ↓
 Renaissance Backend (Stellar Blockchain + Services)
+
